@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsghostchannel
+- 👋 Hi, I’m @itsghostchannel (Ghost Channel)
 - 👀 I’m interested in Web3, Cryptography, SWE, and Cyperpunk.
 - 🌱 I’m currently learning Game Theory.
 - 😄 Pronouns: he/him.
