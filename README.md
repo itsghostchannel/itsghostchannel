@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsghostchannel (Ghost Channel)
-- 👀 I’m interested in Web3, Cryptography, SWE, and Cyperpunk.
+- 👀 I’m interested in Web3, Cryptography, and Cyperpunk.
 - 🌱 I’m currently learning Game Theory.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: If we are living in a simulation, every time you forget why you walked into a room, it might just be the universe rendering a new instance and lagging a bit. 🕶️💾✨
